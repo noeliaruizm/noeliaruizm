@@ -1,4 +1,11 @@
-### Hi there 👋
+### ¡Hola! 👋
+
+Soy Noelia Ruiz, de Barcelona y hace más de 10 años que la 📸 fotografía forma parte de mí.
+Siempre he estado ligada al diseño, me encanta el desarrollo web y ahora me he formado como diseñadora UX/UI y FrontEnd Developer.
+
+## SKILLS
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
 <!--
 **noeliaruizm/noeliaruizm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
